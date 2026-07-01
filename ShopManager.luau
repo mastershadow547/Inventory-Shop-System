@@ -1,4 +1,5 @@
 -- SHOWCASE: https://drive.google.com/file/d/1MhB_feMLIHQgJasPUFExvDuE2cqBHT_a/view?usp=sharing
+-- By the way the templates show nothing because I didn't add the models. I added the models for only one of them.
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
