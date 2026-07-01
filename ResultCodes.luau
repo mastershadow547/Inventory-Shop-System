@@ -1,3 +1,5 @@
+-- SHOWCASE: https://drive.google.com/file/d/1MhB_feMLIHQgJasPUFExvDuE2cqBHT_a/view?usp=sharing
+
 return table.freeze({
 	SUCCESS = "SUCCESS",
 	ALREADY_OWNED = "ALREADY_OWNED",
